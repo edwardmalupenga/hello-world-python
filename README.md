@@ -1,2 +1,5 @@
-# hello-world-python
-my python projects 2026, second year of my studies.
+ - Full Name: EDWARD MALUPENGA
+   - Student Number: 2025551951
+   - Program of Study:  BACHELOR OF SCIENCE IN ICT PURE
+   - Course Name: ICT 214 PROGRAMMING 2
+   - Short project description: THIS PROGRAM PRINTS OUT HELLO WORLD.
